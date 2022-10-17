@@ -1,2 +1,2 @@
-# buy-me-a-coffee-solidity-hardhat-ethersjs
+# Buy Me a Coffee
  How to build "Buy Me a Coffee" DeFi Dapp (Solidity, Hardhat, Ethers.js) 
